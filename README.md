@@ -8,6 +8,6 @@ This project continued a series of diabetes prediction models (logistic regressi
 - Showed that 59% overall accuracy masked only 26% recall for diabetic patients, meaning the model missed nearly three of every four actual cases
 - Connected the pattern to class imbalance seen across all three models in the series and recommended resampling, class weighting, F1 scores, and precision-recall curves
 
-[Documentation](https://github.com/hrbergman/postgresql-customer-services-query/blob/main/postgresql-customer-services-query/data-acquisition-documentation.pdf)
+[Documentation](https://github.com/hrbergman/diabetes-classification-model-evaluation/blob/main/diabetes-classification-model-evaluation/predictive-analysis-documentation.pdf)
 | 
-[Video Presentation](https://youtu.be/jKOE0cG68rc)
+[Video Presentation](https://youtu.be/__LlSPJFOZI)
